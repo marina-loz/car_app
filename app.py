@@ -28,7 +28,6 @@ with col2:
         max_value=int(df['model_year'].max()),
         value=(int(df['model_year'].min()), int(df['model_year'].max()))
     )
-
 with col3:
     # Car Type Multiselect
     car_types = df['type'].unique()
@@ -81,3 +80,4 @@ with col5:
 # Optional: Show Filtered Data
 if st.checkbox("Show Filtered Data"):
     st.write(filtered_data)
+    
