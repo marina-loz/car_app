@@ -37,7 +37,6 @@ with col3:
         options=car_types,
         default=car_types
     )
-
 # Filter the data based on slider values
 filtered_data = df[
     (df['price'] >= price_min) &
