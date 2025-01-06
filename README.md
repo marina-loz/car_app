@@ -41,7 +41,7 @@ pip install -r requirements.txt
 4. **Run the Application**:
 streamlit run app.py
 
-5. **Open your browser and navigate to the URL provided** (typically http://localhost:8506).
+5. **Open your browser and navigate to the URL provided** .
 
 ## Dataset
 
