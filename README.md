@@ -1,6 +1,6 @@
 
 # Car Sales Dashboard
-Link to my project: https://car-app-4i42.onrender.com
+Link to my project: [https://car-app-4i42.onrender.com](https://car-app-4i42.onrender.com)  
 This project is an interactive web application built using **Streamlit** to visualize and explore car sales advertisements. The application allows users to filter data dynamically and analyze car prices, model years, and types through various visualizations.
 
 ---
